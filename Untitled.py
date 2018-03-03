@@ -22,6 +22,11 @@ def haversine_np(lon1, lat1, lon2, lat2):
     on the earth (specified in decimal degrees)
     
     All args must be of equal length.
+    sadklajsdkljaslkdjklasjdljasldjasdjaskld
+    a
+    sd
+    asd
+    asd
     
     """
     lon1, lat1, lon2, lat2 = map(np.radians,[lon1, lat1, lon2, lat2])
