@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import matplotlib 
 import seaborn as sns
 from sklearn.cluster import KMeans, DBSCAN
-from sklearn.metrics import silhouette_score
+from sklearn.metrics import silhouette_scorebc
 
 
 df = pd.read_json('./data/train.json')[['longitude','latitude','interest_level','price']]
